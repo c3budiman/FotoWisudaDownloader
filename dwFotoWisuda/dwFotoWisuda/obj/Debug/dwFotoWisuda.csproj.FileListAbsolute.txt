@@ -1,0 +1,49 @@
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.exe
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.pdb
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Form1.resources
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Properties.Resources.resources
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.csproj.GenerateResource.Cache
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.pdb
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.dll
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.Classic.2.dll
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe.licenses
+C:\Users\Win 7\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\MySQLDriverCS.dll
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.pdb
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.exe
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.pdb
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Data.2.dll
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.dll
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.Classic.2.dll
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Data.2.xml
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.xml
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\ResolveAssemblyReference.cache
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Form1.resources
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Properties.Resources.resources
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.csproj.GenerateResource.Cache
+G:\MyProgram\Gunadarma\BukuWisuda\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe.licenses
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Data.2.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe.licenses
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.pdb
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.exe
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\bin\Debug\dwFotoWisuda.pdb
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Data.2.xml
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\bin\Debug\C1.Win.C1FlexGrid.2.xml
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.csprojResolveAssemblyReference.cache
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Form1.resources
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.Properties.Resources.resources
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.csproj.GenerateResource.Cache
+E:\Backup drive E kedua\Softwares\PROGRAM download foto\dwFotoWisuda\dwFotoWisuda\obj\Debug\dwFotoWisuda.exe.licenses
